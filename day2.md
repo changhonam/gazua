@@ -123,7 +123,7 @@ MVN | Rd := 0xFFFFFFFF EOR Op2 | Move Negative register
         - 32 비트 상수를 명시하면 어셈블러가 자동으로 ror연산을 적용하여 변환
         ![](./img/image021.png)
 
-<u>**하지만 홀수개의 비트 이동을 해야할 수 밖에 없을 떈 컴파일 에러**</u>
+<u>**하지만 홀수개의 비트 이동을 해야할 수 밖에 없을 떈 컴파일 에러**</u>  
 ![](./img/image022.png)
 ![](./img/image023.png)
 ![](./img/image007.jpg)
